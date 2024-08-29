@@ -1,0 +1,4 @@
+Kaggle
+pandas
+zipfile
+sqlalchemy
